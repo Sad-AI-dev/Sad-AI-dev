@@ -5,7 +5,7 @@
 <!-- icons -->
 
 <img align="left" alt="CSharp" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Unity" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" alt="Unity" width="60px" style="padding-right:10px;" src="/src/img/Unity_Logo.png"/>
 <img align="left" alt="Fork" width="60px" style="padding-right:10px;" src="https://git-fork.com/images/logo.png"/>
 <img align="left" alt="Visual Studio" width="60px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 
