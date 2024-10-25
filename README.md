@@ -74,7 +74,19 @@ make sure that this section is collapsable!
 #
 ### Contact
 
-contact details here.
+Interested in me or my work? Feel free to reach out!
+
+<!-- Email -->
+
+<img align="left" alt="Email" width="40px" style="padding-right:10px;" src="/src/img/Mail_Logo.png"/>
+<a hreff="mailto:ArvidvdHoogen@gmail.com">ArvidvdHoogen@gmail.com</a>
+
+<br/><br/>
+
+<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px;" src="/src/img/LinkedIn_Logo.png"/>
+<a hreff="https://www.linkedin.com/in/arvid-van-den-hoogen/">Linked In</a>
+
+<!-- LinkedIn -->
 
 <!--
 The plan is simple:
