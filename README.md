@@ -1,16 +1,27 @@
-## Hi there 👋
+# Arvid van den Hoogen
+
+### Languages & Tools
+
+<!-- icons -->
+
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" alt="Fork" width="30px" style="padding-right:10px;" src="https://git-fork.com/images/logo.png"/>
+<img align="left" alt="Visual Studio" width="30px" style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
+
+<br/>
 
 <!--
-**Sad-AI-dev/Sad-AI-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The plan is simple:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[ ] Short Bio
+[X] Languages & Tools
+		for this section, use dev icons.
+		- C#
+		- Unity
+		- Fork
+		- Visual Studio
+[ ] Currently working on
+[ ] Previous works
+[ ] Contact
 -->
