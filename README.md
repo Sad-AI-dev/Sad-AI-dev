@@ -2,9 +2,9 @@
 
 **`Gameplay Programmer / Software Architect`**
 
-I'm a junior programmer working in the game industry where I take pride and joy in implementing gameplay related systems.  
-During my time in the industry, I have participated in 10+ gamejams and worked on a large variety of group and solo projects.  
-You can find my tools of choice and some of my favorite works below.
+As a programmer, I take pride and joy in implementing gameplay related systems.  
+Over the years I participated in 10+ gamejams and worked on a large variety of group and solo projects.  
+You can find the Tools I've used and some of my favorite works below.
 
 ---
 
@@ -53,10 +53,10 @@ Minor Experience
 #
 ### Current Projects
 
-I am currently working on project **Quantum Gaming**, which is a project organized by my study.  
-The aim of the project is to help out the Quantum lab at Saxion by providing simulation software which allows for expirementation and rapid prototyping.
+As part of my study, I am currently working on project **Quantum Gaming**.  
+The aim of which is to help out the Quantum lab at Saxion by providing software which allows for accurately simulation of Quantum Mechanics.
 
-Assigned to this project are me and my fellow programmer [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
+Assigned to this project along with me is my fellow programmer [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
 My responsibilities for the project include designing and implementing the software architecture in Unity and implementing gameplay systems.
 
 Alongside this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
@@ -74,19 +74,17 @@ make sure that this section is collapsable!
 #
 ### Contact
 
-Interested in me or my work? Feel free to reach out!
+Interested in me and my work? Feel free to reach out!
 
 <!-- Email -->
-
 <img align="left" alt="Email" width="30px" style="padding-right:10px;" src="/src/img/Mail_Logo.png"/>
 
 [ArvidvdHoogen@gmail.com](mailto:ArvidvdHoogen@gmail.com)
 
+<!-- LinkedIn -->
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="/src/img/LinkedIn_Logo.png"/>
 
 [Linked In](https://www.linkedin.com/in/arvid-van-den-hoogen/)
-
-<!-- LinkedIn -->
 
 <!--
 The plan is simple:
