@@ -78,13 +78,13 @@ Interested in me or my work? Feel free to reach out!
 
 <!-- Email -->
 
-<img align="left" alt="Email" width="40px" style="padding-right:10px;" src="/src/img/Mail_Logo.png"/>
-<a hreff="mailto:ArvidvdHoogen@gmail.com">ArvidvdHoogen@gmail.com</a>
+<img align="left" alt="Email" width="30px" style="padding-right:10px;" src="/src/img/Mail_Logo.png"/>
 
-<br/><br/>
+[ArvidvdHoogen@gmail.com](mailto:ArvidvdHoogen@gmail.com)
 
-<img align="left" alt="LinkedIn" width="40px" style="padding-right:10px;" src="/src/img/LinkedIn_Logo.png"/>
-<a hreff="https://www.linkedin.com/in/arvid-van-den-hoogen/">Linked In</a>
+<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="/src/img/LinkedIn_Logo.png"/>
+
+[Linked In](https://www.linkedin.com/in/arvid-van-den-hoogen/)
 
 <!-- LinkedIn -->
 
@@ -107,5 +107,5 @@ The plan is simple:
 		- PHP
 [X] Currently working on
 [ ] Previous works
-[ ] Contact
+[X] Contact
 -->
