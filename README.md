@@ -92,6 +92,32 @@ Here are some examples of the power-ups we created:
 
 Find out more about this project [here](https://github.com/Sad-AI-dev/Minor_Skilled).
 
+<!-- Wave Collapse Function Algorithm -->
+## Wave Collapse Function
+
+The **Wave Collapse Function Algorithm** is an algorithm used for procedural generation.
+
+<div align="center"><a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img align="center" alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
+</a></div>
+
+> My Wave Collapse Function Algorithm generating a 2D environment
+
+As a personal project, I created a version of the [Wave Collapse Function Algorithm](https://github.com/mxgmn/WaveFunctionCollapse).  
+The above image shows every step the algorithm takes, below is a version which generates an environment in "chunks" and one which generates a 3D environment.
+
+<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img align="center" alt="WCF Algorithm generating a 2D environment" width="35%" style="padding-right:10%;" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Lines.gif">
+</a>
+
+<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img align="center" alt="WCF Algorithm generating a 3D environment" width="35%" style="padding-right:10%;" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/3D-Pipes.gif">
+</a>
+
+###
+
+Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main).
+
 </details>
 
 #
@@ -129,10 +155,7 @@ The plan is simple:
 [X] Currently working on
 [ ] Previous works
 	[X] Stellar Sprint
-	[ ] Wave Collapse Function Algorithm
+	[X] Wave Collapse Function Algorithm
 	[ ] Chunk Punk
-	- Game jams
-	[ ] Identification Station
-	[ ] Astral Herd
 [X] Contact
 -->
