@@ -67,6 +67,10 @@ This package is solely developed by me and is actively being used in the **Quant
 <details>
 	<summary><h3>Previous Works<h3/></summary>
 
+This section contains some of my favorite projects I recently worked on.
+
+##
+
 <!-- Minor Skilled Project -->
 <a href="https://github.com/Sad-AI-dev/Minor_Skilled">
 	<img align="center" alt="Stellar Sprint Logo" width="70%" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/Develop/Roguelike_Minor/Assets/Art/2D/UI%20Elements/Main%20Menu/Menu%20Rework/Title.png"/>
@@ -117,6 +121,11 @@ The above image shows every step the algorithm takes, below is a version which g
 ###
 
 Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main).
+
+##
+<a href="">
+	<img align="center" alt="Chunk Punk Logo" width="35%" src="https://github.com/Sad-AI-dev/ChunkPunk/blob/Development/Project_Show-off/Assets/Artist/UI/Unbenanntes_Projekt.png"/>
+</a>
 
 </details>
 
