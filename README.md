@@ -67,7 +67,30 @@ This package is solely developed by me and is actively being used in the **Quant
 <details>
 	<summary><h3>Previous Works<h3/></summary>
 
-make sure that this section is collapsable!
+<!-- Minor Skilled Project -->
+<a href="https://github.com/Sad-AI-dev/Minor_Skilled">
+	<img align="center" alt="Stellar Sprint Logo" width="70%" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/Develop/Roguelike_Minor/Assets/Art/2D/UI%20Elements/Main%20Menu/Menu%20Rework/Title.png"/>
+</a>
+
+###
+
+As part of my minor, I collaborated with 6 other students on developing a 3D action rogue-like.  
+I took up the roles of Project Lead, Lead Developer, Software Architect and Gameplay Programmer during this project.  
+
+<!-- left aligned image here? -->
+
+I greatly enjoyed working on this project, as it contained a large variety of complex gameplay systems.  
+My favorite part I worked on is the *agent system*.  
+This system unifies the underlying systems for all the enemies and the player.
+ A consequence of this is that all content developed for the player can also be used on the enemies with minimal effort.  
+A great example of this are the 40+ unique power-ups that were developed for the player, which we later used to quickly create unique and distinct enemy variants.
+
+Building the systems which allow for a large variety of unique power-ups is an achievement I take great pride in.  
+Here are some examples of the power-ups we created:
+
+<!-- add images of a ~3 items next to each other here -->
+
+Find out more about this project [here](https://github.com/Sad-AI-dev/Minor_Skilled).
 
 </details>
 
@@ -105,5 +128,11 @@ The plan is simple:
 		- PHP
 [X] Currently working on
 [ ] Previous works
+	[X] Stellar Sprint
+	[ ] Wave Collapse Function Algorithm
+	[ ] Chunk Punk
+	- Game jams
+	[ ] Identification Station
+	[ ] Astral Herd
 [X] Contact
 -->
