@@ -58,7 +58,7 @@ The aim of which is to help out the Quantum lab at Saxion by providing software 
 Working on this project alongside me is [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
 My contributions include designing and implementing the software architecture and implementing gameplay systems in Unity.
 
-Alongside this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
+In parralel with this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
 This package is solely developed by me and is actively being used in the **Quantum Gaming** project.
 
 <!-- Collapsable section about previous works -->
