@@ -142,9 +142,13 @@ The above image shows every step the algorithm takes, below is a version which g
 Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main).
 
 ##
-<a href="">
+<a href="https://github.com/Sad-AI-dev/ChunkPunk">
 	<img align="center" alt="Chunk Punk Logo" width="35%" src="https://github.com/Sad-AI-dev/ChunkPunk/blob/Development/Project_Show-off/Assets/Artist/UI/Unbenanntes_Projekt.png"/>
 </a>
+
+As a part of my study, I developed a chaotic party game over the course of 10 weeks in collaboration with 7 other students.
+
+Find out more about this project [here](https://github.com/Sad-AI-dev/ChunkPunk).
 
 </details>
 
