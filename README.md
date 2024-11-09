@@ -93,11 +93,24 @@ Building the systems which allow for a large variety of unique power-ups is an a
 Here are some examples of the power-ups we created:
 
 <!-- add images of a ~3 items next to each other here -->
+<a href="https://github.com/Sad-AI-dev/Minor_Skilled">
+	<img align="left" alt="Timmy" width="25%" style="padding-right:10px;" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Timmy_Item.PNG"/>
+</a>
+<a href="https://github.com/Sad-AI-dev/Minor_Skilled">
+	<img align="left" alt="Contagious Fang" width="25%" style="padding-right:10px;" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Fang_Item.PNG"/>
+</a>
+<a href="https://github.com/Sad-AI-dev/Minor_Skilled">
+	<img align="left" alt="Propeller Hat" width="25%" style="padding-right:10px;" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Hat_Item.PNG"/>
+</a>
+
+<br/><br/><br/>
 
 Find out more about this project [here](https://github.com/Sad-AI-dev/Minor_Skilled).
 
+<br/>
+
 <!-- Wave Collapse Function Algorithm -->
-## Wave Collapse Function
+# Wave Collapse Function
 
 The **Wave Collapse Function Algorithm** is an algorithm used for procedural generation.
 
