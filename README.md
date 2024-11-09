@@ -78,7 +78,7 @@ This section contains some of my favorite projects I recently worked on.
 
 ###
 
-As part of my minor, I collaborated with 6 other students on developing a 3D action rogue-like.  
+As part of my minor, I collaborated with 6 other students on developing a 3D action rogue-like over the course of 6 months.  
 I took up the roles of Project Lead, Lead Developer, Software Architect and Gameplay Programmer during this project.  
 
 <!-- left aligned image here? -->
@@ -89,7 +89,8 @@ I took up the roles of Project Lead, Lead Developer, Software Architect and Game
 I greatly enjoyed working on this project, as it contained a large variety of complex gameplay systems.  
 My favorite part I worked on is the *agent system*.  
 This system unifies the underlying systems for all the enemies and the player.
- A consequence of this is that all content developed for the player can also be used on the enemies with minimal effort.  
+
+A consequence of this is that all content developed for the player can also be used on the enemies with minimal effort.  
 A great example of this are the 40+ unique power-ups that were developed for the player, which we later used to quickly create unique and distinct enemy variants.
 
 <br/>
