@@ -143,10 +143,26 @@ Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollap
 
 ##
 <a href="https://github.com/Sad-AI-dev/ChunkPunk">
-	<img align="center" alt="Chunk Punk Logo" width="35%" src="https://github.com/Sad-AI-dev/ChunkPunk/blob/Development/Project_Show-off/Assets/Artist/UI/Unbenanntes_Projekt.png"/>
+	<img align="center" alt="Chunk Punk Logo" width="35%" src="https://github.com/Sad-AI-dev/Sad-AI-dev/blob/main/src/img/ChunkPunk_Logo_Cropped.png"/>
 </a>
 
-As a part of my study, I developed a chaotic party game over the course of 10 weeks in collaboration with 7 other students.
+As a part of my study, I developed a chaotic party game over the course of 10 weeks in collaboration with 7 other students.  
+I took up the roles of Team Lead, Lead Programmer and Gameplay Programmer for this project.
+
+<!-- Image of Gameplay -->
+<a href="https://github.com/Sad-AI-dev/ChunkPunk">
+	<img align="center" alt="gameplay" width="50%" src="https://github.com/Sad-AI-dev/ChunkPunk/blob/main/ReadMeImages/Gameplay1.png"/>
+</a>
+
+My favorite contribution to this project was my leadership.  
+My ability to lead a team of incredibly talented people under the restriction of a very tight deadline is something I am very proud of.
+
+Additional contributions of mine to this project include, but are not limited to:
+- Input Handling for local multiplayer bluetooth controllers
+- Algorithm for goal placement
+	- This algorithm determines a location equally far away from each player using a node based graph.
+ - General game flow
+ - Inventory / Item system
 
 Find out more about this project [here](https://github.com/Sad-AI-dev/ChunkPunk).
 
@@ -166,30 +182,3 @@ Interested in me and my work? Feel free to reach out!
 <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="/src/img/LinkedIn_Logo.png"/>
 
 [Linked In](https://www.linkedin.com/in/arvid-van-den-hoogen/)
-
-<!--
-The plan is simple:
-
-[X] Short Bio
-[X] Languages & Tools
-		for this section, use dev icons.
-		- C#
-		- Unity
-		- Fork
-		- Visual Studio
-		Minor:
-		- C++
-		- Unreal Engine
-		- Type Script
-		- HTML 5
-		- CSS 3
-		- PHP
-[X] Currently working on
-[ ] Previous works
-	[X] Stellar Sprint
-		[X] Gameplay Image
-		[X] Item Images
-	[X] Wave Collapse Function Algorithm
-	[ ] Chunk Punk
-[X] Contact
--->
