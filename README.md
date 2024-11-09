@@ -82,12 +82,17 @@ As part of my minor, I collaborated with 6 other students on developing a 3D act
 I took up the roles of Project Lead, Lead Developer, Software Architect and Gameplay Programmer during this project.  
 
 <!-- left aligned image here? -->
+<a href="https://github.com/Sad-AI-dev/Minor_Skilled">
+	<img align="right" alt="Gameplay" width="48%" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Gameplay1.png"/>
+</a>
 
 I greatly enjoyed working on this project, as it contained a large variety of complex gameplay systems.  
 My favorite part I worked on is the *agent system*.  
 This system unifies the underlying systems for all the enemies and the player.
  A consequence of this is that all content developed for the player can also be used on the enemies with minimal effort.  
 A great example of this are the 40+ unique power-ups that were developed for the player, which we later used to quickly create unique and distinct enemy variants.
+
+<br/>
 
 Building the systems which allow for a large variety of unique power-ups is an achievement I take great pride in.  
 Here are some examples of the power-ups we created:
@@ -177,6 +182,8 @@ The plan is simple:
 [X] Currently working on
 [ ] Previous works
 	[X] Stellar Sprint
+		[X] Gameplay Image
+		[X] Item Images
 	[X] Wave Collapse Function Algorithm
 	[ ] Chunk Punk
 [X] Contact
