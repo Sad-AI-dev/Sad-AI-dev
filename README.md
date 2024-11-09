@@ -54,10 +54,9 @@ Minor Experience
 ### Current Projects
 
 As part of my study, I am currently working on project **Quantum Gaming**.  
-The aim of which is to help out the Quantum lab at Saxion by providing software which allows for accurately simulation of Quantum Mechanics.
-
-Assigned to this project along with me is my fellow programmer [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
-My responsibilities for the project include designing and implementing the software architecture in Unity and implementing gameplay systems.
+The aim of which is to help out the Quantum lab at Saxion by providing software which allows for accurately simulation of Quantum Mechanics.  
+Working on this project alongside me is [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
+My contributions include designing and implementing the software architecture and implementing gameplay systems in Unity.
 
 Alongside this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
 This package is solely developed by me and is actively being used in the **Quantum Gaming** project.
