@@ -3,7 +3,7 @@
 **`Gameplay Programmer / Software Architect`**
 
 As a programmer, I take pride and joy in implementing gameplay related systems.  
-Over the years I participated in 10+ gamejams and worked on a large variety of group and solo projects.  
+Over the years I participated in 10+ game jams and worked on a large variety of group and solo projects.  
 You can find the Tools I've used and some of my favorite works below.
 
 ---
@@ -54,11 +54,11 @@ Minor Experience
 ### Current Projects
 
 As part of my study, I am currently working on project **Quantum Gaming**.  
-The aim of which is to help out the Quantum lab at Saxion by providing software which allows for accurately simulation of Quantum Mechanics.  
+The aim of which is to support the Quantum lab at Saxion by providing software which allows for accurately simulation of Quantum Mechanics.  
 Working on this project alongside me is [Arjen van Klaveren](https://arjenvklaveren.github.io/).  
 My contributions include designing and implementing the software architecture and implementing gameplay systems in Unity.
 
-In parralel with this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
+In parallel with this project, I am developing a utils library for Unity. The wiki for which can be found [here](https://github.com/Sad-AI-dev/SadUtils_Package/wiki).  
 This package is solely developed by me and is actively being used in the **Quantum Gaming** project.
 
 <!-- Collapsable section about previous works -->
@@ -80,7 +80,7 @@ This section contains some of my favorite projects I recently worked on.
 As part of my minor, I collaborated with 6 other students on developing a 3D action rogue-like over the course of 6 months.  
 I took up the roles of Project Lead, Lead Developer, Software Architect and Gameplay Programmer during this project.  
 
-<!-- left aligned image here? -->
+<!-- left aligned image -->
 <a href="https://github.com/Sad-AI-dev/Minor_Skilled">
 	<img align="right" alt="Gameplay" width="48%" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Gameplay1.png"/>
 </a>
@@ -97,7 +97,7 @@ A great example of this are the 40+ unique power-ups that were developed for the
 Building the systems which allow for a large variety of unique power-ups is an achievement I take great pride in.  
 Here are some examples of the power-ups we created:
 
-<!-- add images of a ~3 items next to each other here -->
+<!-- item images -->
 <a href="https://github.com/Sad-AI-dev/Minor_Skilled">
 	<img align="left" alt="Timmy" width="25%" style="padding-right:10px;" src="https://github.com/Sad-AI-dev/Minor_Skilled/blob/main/ReadMe/img/Timmy_Item.PNG"/>
 </a>
@@ -157,9 +157,9 @@ My favorite contribution to this project was my leadership.
 My ability to lead a team of incredibly talented people under the restriction of a very tight deadline is something I am very proud of.
 
 Additional contributions of mine to this project include, but are not limited to:
-- Input Handling for local multiplayer bluetooth controllers
+- Input Handling for local multiplayer Bluetooth controllers
 - Algorithm for goal placement
-	- This algorithm determines a location equally far away from each player using a node based graph.
+	- This algorithm determines a location equally far away from each player using a node-based graph.
  - General game flow
  - Inventory / Item system
 
