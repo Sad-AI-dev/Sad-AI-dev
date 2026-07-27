@@ -1,3 +1,61 @@
+<!-- TODO: Banner goes here -->
+
+Welcome to my portfolio page!  
+Below you'll find selection of my past works and the tools I used to create them.
+
+---
+
+## Tools & Proficiencies
+
+<!-- Major proficiencies -->
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+	<img align="left" alt="CSharp" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+</a>
+<a href="https://unity.com/">
+	<img align="left" alt="Unity" width="60px" src="/src/img/Unity_Logo.png"/>
+</a>
+
+<img align="left" alt="" width="30px" src="/src/img/Spacer.png"/>
+
+<a href="https://www.jetbrains.com/rider/">
+	<img align="left" alt="Rider" width="60px" src="https://resources.jetbrains.com/storage/logos/web/rider/rider.svg"/>
+</a>
+<a href="https://visualstudio.microsoft.com/">
+	<img align="left" alt="Visual Studio" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
+</a>
+
+<img align="left" alt="" width="30px" src="/src/img/Spacer.png"/>
+
+<a href="https://git-fork.com/">
+	<img align="left" alt="Fork" width="60px" src="https://git-fork.com/images/logo.png"/>
+</a>
+
+<br><br><br><br>
+
+<!-- Minor proficiencies -->
+#### Minor Experience
+
+<a href="https://cplusplus.com/">
+	<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+</a>
+<a href="https://www.unrealengine.com/en-US">
+	<img align="left" alt="Unreal Engine" width="40px" style="padding-right:10px;" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png"/>
+</a>
+
+<img align="left" alt="" width="20px" src="/src/img/Spacer.png"/>
+
+<a href="https://www.typescriptlang.org/">
+	<img align="left" alt="Type Script" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+</a>
+<a href="https://whatwg.org/">
+	<img align="left" alt="HTML 5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+</a>
+<a href="https://www.w3.org/TR/css-2023/">
+	<img align="left" alt="CSS 3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</a>
+
+---
+
 # Arvid van den Hoogen
 
 **`Gameplay Programmer / Software Architect`**
@@ -64,7 +122,7 @@ This package is solely developed by me and is actively being used in the **Quant
 <!-- Collapsable section about previous works -->
 #
 <details>
-	<summary><h3>Previous Works<h3/></summary>
+	<summary><h3>Previous Works</h3></summary>
 
 This section contains some of my favorite projects I recently worked on.
 
