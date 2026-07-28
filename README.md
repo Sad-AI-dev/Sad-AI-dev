@@ -13,7 +13,7 @@ Below you'll find selection of my past works and the tools I used to create them
 	<img align="left" alt="Unity" width="60px" src="/src/img/Unity_Logo.png"/>
 </a>
 
-<img align="left" alt="" height="70px" width="4px" src="/src/img/Spacer_vert.png"/>
+<img align="left" alt="" height="70px" width="3px" src="/src/img/Spacer_vert.png"/>
 
 <a href="https://www.jetbrains.com/rider/">
 	<img align="left" alt="Rider" width="60px" src="https://resources.jetbrains.com/storage/logos/web/rider/rider.svg"/>
@@ -22,7 +22,7 @@ Below you'll find selection of my past works and the tools I used to create them
 	<img align="left" alt="Visual Studio" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 </a>
 
-<img align="left" alt="" height="70px" width="4px" src="/src/img/Spacer_vert.png"/>
+<img align="left" alt="" height="70px" width="3px" src="/src/img/Spacer_vert.png"/>
 
 <a href="https://git-fork.com/">
 	<img align="left" alt="Fork" width="60px" src="https://git-fork.com/images/logo.png"/>
@@ -40,7 +40,7 @@ Below you'll find selection of my past works and the tools I used to create them
 	<img align="left" alt="Unreal Engine" width="40px" src="https://www.pikpng.com/pngl/b/543-5434947_unreal-engine-logo-unreal-engine-logo-ico-clipart.png"/>
 </a>
 
-<img align="left" alt="" height="45px" width="4px" src="/src/img/Spacer_vert.png"/>
+<img align="left" alt="" height="45px" width="2px" src="/src/img/Spacer_vert.png"/>
 
 <a href="https://www.typescriptlang.org/">
 	<img align="left" alt="Type Script" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
