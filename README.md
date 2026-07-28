@@ -5,7 +5,7 @@ Below you'll find selection of my past works and the tools I used to create them
 
 ---
 
-## Tools & Proficiencies
+# Tools & Proficiencies
 
 <!-- Major proficiencies -->
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
@@ -53,6 +53,50 @@ Below you'll find selection of my past works and the tools I used to create them
 <a href="https://www.w3.org/TR/css-2023/">
 	<img align="left" alt="CSS 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </a>
+
+<br><br>
+
+# Previous Works
+
+<!-- Bandit Trap -->
+<a href="https://bandittrap.picomy.com/">
+	<div align="center">
+		<img alt="Bandit Trap" width="90%" src="/src/img/Projects/BanditTrap.jpg"/>
+	</div>
+</a>
+
+<details><summary><strong>=== Click for details ===</strong></summary>
+	yippie!
+</details>
+
+---
+
+<!-- Waveform Collapse Algorithm -->
+## Waveform Collapse Algorithm
+<div align="center"><a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
+</a></div>
+
+<details><summary><strong>=== Click for details ===</strong></summary>
+The **Wave Collapse Function Algorithm** is an algorithm used for procedural generation.
+
+As a personal project, I created a version of the [Wave Collapse Function Algorithm](https://github.com/mxgmn/WaveFunctionCollapse).  
+The above image shows every step the algorithm takes, below is a version which generates an environment in "chunks" and one which generates a 3D environment.
+
+<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img align="center" alt="WCF Algorithm generating a 2D environment" width="35%" style="padding-right:10%;" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Lines.gif">
+</a>
+
+<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
+	<img align="center" alt="WCF Algorithm generating a 3D environment" width="35%" style="padding-right:10%;" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/3D-Pipes.gif">
+</a>
+
+> My Wave Collapse Function Algorithm generating a 2D and 3D environment
+
+###
+
+Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main).
+</details>
 
 ---
 
