@@ -1,9 +1,12 @@
 <!-- TODO: Banner goes here -->
 
 Welcome to my portfolio page!  
-Below you'll find selection of my past works and the tools I used to create them.
+**I'm Arvid (He/Him)** - a `Gameplay Programmer` and `Software Architect`.  
+I love solving complex technical problems and seeing players engage with my work.
 
-# Tools & Proficiencies
+Below you'll find a selection of my past creations and the tools I used to make them.
+
+# Proficiency Overview
 
 <!-- Major proficiencies -->
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
@@ -31,7 +34,7 @@ Below you'll find selection of my past works and the tools I used to create them
 <br><br><br>
 
 <!-- Minor proficiencies -->
-#### Minor Experience
+#### Minor experience
 
 <a href="https://cplusplus.com/">
 	<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -57,14 +60,33 @@ Below you'll find selection of my past works and the tools I used to create them
 # Previous Works
 
 <!-- Bandit Trap -->
+<!-- Badges -->
+<div align="left">
+	<img alt="Engine: Unity" src="https://badgen.net/static/Engine/Unity/222"/>
+	<img alt="Language: C#" src="https://badgen.net/static/Language/C%23/60c"/>
+</div>
+
+<!-- Big Image -->
 <a href="https://bandittrap.picomy.com/">
 	<div align="center">
 		<img alt="Bandit Trap" width="50%" src="/src/img/Projects/BanditTrap.jpg"/>
 	</div>
 </a>
 
+<br>
 <details><summary><strong>=== Click for details ===</strong></summary>
-	yippie!
+<br>
+
+**Bandit Trap** is an asymmetric 3v1 multiplayer game developed by <a href="https://www.picomy.com/">Picomy</a>.
+
+3 players are the **Bandits**, who are tasked with stealing treasures from a house.  
+1 player is the **Trapper**, who defends the house.  
+
+<!-- gameplay images -->
+<div align="left">
+	<img alt="Gameplay image 1" width="50%" src="/src/img/Projects/BT_Gameplay_1.jpg"/>
+</div>
+
 </details>
 
 <!-- Waveform Collapse Algorithm -->
@@ -73,6 +95,7 @@ Below you'll find selection of my past works and the tools I used to create them
 	<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
 </a></div>
 
+<br>
 <details><summary><strong>=== Click for details ===</strong></summary>
 <br>
 
