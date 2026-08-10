@@ -126,15 +126,24 @@ The bot behavior was developed within the Quantum simulation.
 	</a>
 </div>
 
-For more details, click <a href="https://bandittrap.picomy.com/">here</a>.
+<br>
+Click <a href="https://bandittrap.picomy.com/">here</a> to learn more.
 
 </details>
 
 <!-- Waveform Collapse Algorithm -->
 ## Waveform Collapse Algorithm
-<div align="center"><a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
-	<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
-</a></div>
+<!-- Badges -->
+<div align="left">
+	<img alt="Engine: Unity" src="https://badgen.net/static/Engine/Unity/222"/>
+	<img alt="Language: C#" src="https://badgen.net/static/Language/C%23/60c"/>
+</div>
+<!-- preview -->
+<div align="center">
+	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">
+		<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
+	</a>
+</div>
 
 <br>
 <details><summary><strong>=== Click for details ===</strong></summary>
@@ -146,11 +155,11 @@ As a personal project, I created a version of the [Wave Collapse Function Algori
 The above image shows every step the algorithm takes, below is a version which generates an environment in "chunks" and one which generates a 3D environment.
 
 <div align="center">
-	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
-		<img alt="WCF Algorithm generating a 2D environment" width="35%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Lines.gif">
+	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">
+		<img alt="WCF Algorithm generating a 2D environment" width="49%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Lines.gif">
 	</a>
-	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main">
-		<img alt="WCF Algorithm generating a 3D environment" width="35%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/3D-Pipes.gif">
+	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">
+		<img alt="WCF Algorithm generating a 3D environment" width="49%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/3D-Pipes.gif">
 	</a>
 </div>
 
@@ -158,7 +167,7 @@ The above image shows every step the algorithm takes, below is a version which g
 
 ###
 
-Find out more about this project [here](https://github.com/Sad-AI-dev/WaveCollapseFunction/tree/main).
+Click <a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">here</a> to learn more.
 </details>
 
 ---
