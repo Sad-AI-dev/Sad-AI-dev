@@ -77,15 +77,56 @@ Below you'll find a selection of my past creations and the tools I used to make 
 <details><summary><strong>=== Click for details ===</strong></summary>
 <br>
 
-**Bandit Trap** is an asymmetric 3v1 multiplayer game developed by <a href="https://www.picomy.com/">Picomy</a>.
+**Bandit Trap** is an asymmetric 3v1 multiplayer game developed by <a href="https://www.picomy.com/">Picomy</a> and 
+published by <a href="https://www.pm-studios.com/">PM Studios</a>.
 
 3 players are the **Bandits**, who are tasked with stealing treasures from a house.  
-1 player is the **Trapper**, who defends the house.  
+1 player plays as the **Trapper** defending the house.  
 
 <!-- gameplay images -->
 <div align="left">
-	<img alt="Gameplay image 1" width="50%" src="/src/img/Projects/BT_Gameplay_1.jpg"/>
+	<img alt="Gameplay image 1" width="49%" src="/src/img/Projects/BT_Gameplay_1.jpg"/>
+	<img alt="Gameplay image 2" width="49%" src="/src/img/Projects/BT_Gameplay_2.jpg"/>
 </div>
+
+I worked on this project for roughly the final year of production.  
+My main responsibility was developing bot behavior for both the **Bandit** and **Trapper** roles. 
+This proved to be an incredibly complex and gratifying technical problem to solve.
+
+**Bandit Trap** uses Photon's <a href="https://www.photonengine.com/quantum">Quantum 2</a> networking solution. 
+The bot behavior was developed within the Quantum simulation.
+
+<img alt="Bandit Trap Banner" width="100%" src="/src/img/Projects/BT_Banner.jpg"/>
+
+<div align="center">
+	<strong>Bandit Trap is available on:</strong>
+</div>
+<br>
+
+<div align="center">
+	<!-- Steam -->
+	<a href="https://store.steampowered.com/app/2982360/Bandit_Trap/">
+		<img alt="Steam" width="15%" src="/src/img/Platforms/Steam.png"/>
+	</a>
+	<!-- Epic Games Store -->
+	<a href="https://store.epicgames.com/p/bandit-trap-1bad77">
+		<img alt="Epic Games Store" width="15%" src="/src/img/Platforms/EpicGamesStore.png"/>
+	</a>
+	<!-- Switch 2 -->
+	<a href="https://www.nintendo.com/us/store/products/bandit-trap-switch-2/">
+		<img alt="Switch 2" width="15%" src="/src/img/Platforms/Switch2.png"/>
+	</a>
+	<!-- PS5 -->
+	<a href="https://store.playstation.com/en-us/concept/10014401">
+		<img alt="PS5" width="15%" src="/src/img/Platforms/PS5.png"/>
+	</a>
+	<!-- Xbox Series X|S -->
+	<a href="https://www.xbox.com/en-us/games/store/bandit-trap/9p1lvj4jbck9">
+		<img alt="XBox Series X|S" width="15%" src="/src/img/Platforms/XboxSeriesXS.png"/>
+	</a>
+</div>
+
+For more details, click <a href="https://bandittrap.picomy.com/">here</a>.
 
 </details>
 
