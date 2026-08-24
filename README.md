@@ -1,8 +1,9 @@
 <!-- TODO: Banner goes here -->
 
 Welcome to my portfolio page!  
-**I'm Arvid (He/Him)** - a `Gameplay Programmer` and `Software Architect`.  
-I love solving complex technical problems and seeing players engage with my work.
+I'm **Arvid** *(He/Him)* - a `Gameplay Programmer` and `Software Architect`.  
+My passions are solving complex technical problems, data structures and seeing players enjoy projects I have worked on.  
+I also really enjoy game jams and have participated in **10+** of them.
 
 Below you'll find a selection of my past creations and the tools I used to make them.
 
@@ -168,6 +169,53 @@ The above image shows every step the algorithm takes, below is a version which g
 ###
 
 Click <a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">here</a> to learn more.
+</details>
+
+<!-- Quantum Gaming -->
+## PhotonIC Lab
+<!-- Badges -->
+<div align="left">
+	<img alt="Engine: Unity" src="https://badgen.net/static/Engine/Unity/222"/>
+	<img alt="Language: C#" src="https://badgen.net/static/Language/C%23/60c"/>
+</div>
+<!-- preview -->
+<div align="center">
+	<a href="https://github.com/arjenvklaveren/IMTS_QuantumGaming">
+		<img alt="PhotonIC Lab banner" width="80%" src="https://github.com/arjenvklaveren/IMTS_QuantumGaming/blob/main/src/BannerCropped.png">
+	</a>
+</div>
+
+<br>
+<details><summary><strong>=== Click for details ===</strong></summary>
+<br>
+
+PhotonIC Lab was developed as a collaboration between my study and Saxion's Nano Physics research department.  
+The product aims to accurately simulate quantum photonic behavior with a focus on integrated circuits. 
+
+<div align="center">
+	<img alt="Example PhotonIC Lab project measuring outcomes" width="50%" src="https://github.com/arjenvklaveren/IMTS_QuantumGaming/blob/main/src/Measure.gif"/>
+</div>
+
+I took on the role of Team Lead and Software Architect for this project. 
+This meant I ended up building a lot of fundamental structural elements for the project, such as the grid structure, file IO and general state management.
+
+My favorite feature that I worked on were the Blueprints, which combined all the other elements I worked on.
+
+<div align="center">
+	<img alt="Blueprint sub-grid visual" width="60%" src="https://github.com/arjenvklaveren/IMTS_QuantumGaming/blob/main/src/Blueprint.webp"/>
+</div>
+
+Blueprints are a unique grid component that hosts an internal grid within itself.  
+Connector components allow photons to travel between the main grid and the sub grid.
+
+The blueprints are saved as separate files, and can therefore be duplicated within any project and retain the same functionality. 
+Blueprints can even be nested inside other blueprints, making them truly flexible.
+
+<div align="center">
+	<img alt="Photon travelling" width="70%" src="https://github.com/arjenvklaveren/IMTS_QuantumGaming/blob/main/src/PhotonTravel.gif"/>
+</div>
+
+Click <a href="https://github.com/arjenvklaveren/IMTS_QuantumGaming">here</a> to learn more.
 </details>
 
 ---
