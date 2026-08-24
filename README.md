@@ -59,6 +59,7 @@ Below you'll find a selection of my past creations and the tools I used to make 
 <br><br>
 
 # Previous Works
+## Bandit Trap
 
 <!-- Bandit Trap -->
 <!-- Badges -->
