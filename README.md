@@ -219,6 +219,50 @@ Blueprints can even be nested inside other blueprints, making them truly flexibl
 Click <a href="https://github.com/arjenvklaveren/IMTS_QuantumGaming">here</a> to learn more.
 </details>
 
+# Gamejams
+I love participating in gamejams, the extreme time pressure forces you to focus on what matters and allows me to reconnect with why I love making games. 
+
+Here are some of my favorite gamejam projects:
+
+## Tower of Masks
+<a href="https://s4lt1.itch.io/tower-of-masks">
+	<img align="left" alt="Tower of Masks" width="200px" src="/src/img/Projects/TowerOfMasks.png"/>
+</a>
+
+**Tower of Masks** was developed for <a href="https://globalgamejam.org/">GGJ 2026</a> over the course of 48 hours by 
+[Freek Pluim](https://github.com/FreekPluim), [Emma Balduk](https://www.artstation.com/thesoupwizard), and me.
+
+The main mechanic involves the player solving puzzles by swapping and utilizing different masks.  
+
+The game can is available on [itch](https://s4lt1.itch.io/tower-of-masks) as a web build.
+
+## Identification Station
+
+<a href="https://sad-ai.itch.io/identification-station">
+	<img align="left" alt="Identification Station" width="200px" src="/src/img/Projects/IdentificationStation.png"/>
+</a>
+
+**Identification Station** was developed for a gamejam hosted by my study in 2024 over the course of 48 hours by
+[Freek Pluim](https://github.com/FreekPluim), [Emma Balduk](https://www.artstation.com/thesoupwizard), and me.
+
+The game revolves around the player identifying various magical items by completing short minigames and racking up a highscore.
+
+The game is available on [itch](https://sad-ai.itch.io/identification-station) as a standalone and as a web build.
+
+## Astral Herd
+<a href="https://sad-ai.itch.io/astral-herd">
+	<img align="left" alt="Astral Herd Icon" width="200px" src="/src/img/Projects/AstralHerd.png"/>
+</a>
+
+**Astral Herd** was developed for a gamejam hosted by my study association in 2022 over the course of 48 hours by me.
+
+The player is tasked with defending a group of planets from incoming waves of enemies.
+
+The game is available on [itch](https://sad-ai.itch.io/astral-herd) as a standalone and as a web build.
+<br>
+
+# Other Projects
+
 ---
 
 # Arvid van den Hoogen
