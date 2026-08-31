@@ -2,10 +2,10 @@
 
 Welcome to my portfolio page!  
 I'm **Arvid** *(He/Him)* - a `Gameplay Programmer` and `Software Architect`.  
-My passions are solving complex technical problems, data structures and seeing players enjoy projects I have worked on.  
-I also really enjoy game jams and have participated in **10+** of them.
+My passions are solving complex technical problems, data structures and seeing players enjoy projects I have worked on.
+Also, I really enjoy participating in gamejams and have done so **10+** times.
 
-Below you'll find a selection of my past creations and the tools I used to make them.
+Below you'll find a selection of my work and the tools I used.
 
 # Proficiency Overview
 
@@ -262,6 +262,35 @@ The game is available on [itch](https://sad-ai.itch.io/astral-herd) as a standal
 <br>
 
 # Other Projects
+
+These are some of the things I have worked on in my free time. 
+Not all of them are related to game development, but I believe they go a long way in showing my passion for the space.
+
+## Project Petrichor
+I am deeply intrigued by the universe established by the [Risk of Rain](https://riskofrain.2k.com/) franchise, 
+so I decided to map out all the available lore into a single document.  
+This meant analyzing the lore entries for every item, enemy, location and many more. 
+The project is far from done, but I'm quite pleased with what I've been able to come up with so far.
+
+<a href="https://github.com/Sad-AI-dev/Project_Petrichor">
+    <img align="left" alt="items canvas" width="49%" href="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
+</a>
+
+<a href="https://github.com/Sad-AI-dev/Project_Petrichor">
+    <img align="left" alt="creatures canvas" width="49%" href="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
+</a>
+
+> Hub pages for all items and creatures seen in the franchise
+
+<a href="https://github.com/Sad-AI-dev/Project_Petrichor">
+    <img align="center" alt="connection graph" width="80%" href="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
+</a>
+
+> Connection graph for the project. Each dot represents a page, and each line a reference to another page.
+
+The project was created using [Obsidian](https://obsidian.md/), click [here](https://github.com/Sad-AI-dev/Project_Petrichor) for more information about the project.
+
+## SadUtils
 
 # Contact
 
