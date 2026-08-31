@@ -293,6 +293,10 @@ The project is far from done, but I'm quite pleased with what I've been able to 
 The project was created using [Obsidian](https://obsidian.md/), click [here](https://github.com/Sad-AI-dev/Project_Petrichor) for more information about the project.
 
 ## SadUtils
+**SadUtils** is a Unity Package containing a bunch of utility scripts which assist me during the development of personal projects.  
+The package features extensive documentation and a curated set of battle-tested scripts.  
+
+Click [here](https://github.com/Sad-AI-dev/SadUtils_Package) for more information.
 
 # Contact
 
