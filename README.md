@@ -273,18 +273,20 @@ This meant analyzing the lore entries for every item, enemy, location and many m
 The project is far from done, but I'm quite pleased with what I've been able to come up with so far.
 
 <a href="https://github.com/Sad-AI-dev/Project_Petrichor">
-    <img align="left" alt="items canvas" width="49%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
+    <img align="left" alt="creatures canvas" width="48%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
 </a>
 
 <a href="https://github.com/Sad-AI-dev/Project_Petrichor">
-    <img align="left" alt="creatures canvas" width="49%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
+    <img align="left" alt="items canvas" width="48%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
 </a>
 
-> Hub pages for all items and creatures seen in the franchise
+> Hub pages for all creatures and items seen in the franchise
 
-<a href="https://github.com/Sad-AI-dev/Project_Petrichor">
-    <img align="center" alt="connection graph" width="80%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
-</a>
+<div align="center">
+    <a href="https://github.com/Sad-AI-dev/Project_Petrichor">
+        <img alt="connection graph" width="60%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
+    </a>
+</div>
 
 > Connection graph for the project. Each dot represents a page, and each line a reference to another page.
 
