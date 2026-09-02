@@ -85,7 +85,7 @@ Below you'll find a selection of my work and the tools I used.
 <!-- Big Image -->
 <a href="https://bandittrap.picomy.com/">
 	<div align="center">
-		<img alt="Bandit Trap" width="50%" src="/src/img/Projects/BanditTrap.jpg"/>
+		<img alt="Bandit Trap" width="80%" src="/src/img/Projects/BanditTrap.jpg"/>
 	</div>
 </a>
 
@@ -157,7 +157,7 @@ Click <a href="https://bandittrap.picomy.com/">here</a> to learn more.
 <!-- preview -->
 <div align="center">
 	<a href="https://github.com/Sad-AI-dev/WaveCollapseFunction">
-		<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="50%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
+		<img alt="Demonstration of the Wave Collapse Function Algorithm generation a 2D environment" width="80%" src="https://github.com/Sad-AI-dev/WaveCollapseFunction/blob/main/Readme-Files/2D-Nature.gif">
 	</a>
 </div>
 
@@ -296,11 +296,11 @@ This meant analyzing the lore entries for every item, enemy, location and many m
 The project is far from done, but I'm quite pleased with what I've been able to come up with so far.
 
 <a href="https://github.com/Sad-AI-dev/Project_Petrichor">
-    <img align="left" alt="creatures canvas" width="48%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
+    <img align="left" alt="creatures canvas" width="46%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
 </a>
 
 <a href="https://github.com/Sad-AI-dev/Project_Petrichor">
-    <img align="left" alt="items canvas" width="48%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
+    <img align="left" alt="items canvas" width="46%" src="https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
 </a>
 
 > Hub pages for all creatures and items seen in the franchise
