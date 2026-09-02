@@ -9,8 +9,9 @@ Also, I really enjoy participating in gamejams and have done so **10+** times.
 
 Below you'll find a selection of my work and the tools I used.
 
+<!-- Proficiency Overview -->
 <div align="center">
-    <img alt="Proficiency Overview" width="100%" src="/src/img/Banner/Branding_Banner_Prof_Overview.png"/>
+    <img alt="Proficiency Overview" width="80%" src="/src/img/Banner/Branding_Banner_Prof_Overview.png"/>
 </div>
 
 <!-- Major proficiencies -->
@@ -62,8 +63,9 @@ Below you'll find a selection of my work and the tools I used.
 
 <br><br>
 
+<!-- Previous Work -->
 <div align="center">
-    <img alt="Previous Works" width="100%" src="/src/img/Banner/Branding_Banner_Prev_Work.png"/>
+    <img alt="Previous Works" width="80%" src="/src/img/Banner/Branding_Banner_Prev_Work.png"/>
 </div>
 
 ## Bandit Trap
@@ -227,13 +229,14 @@ Click <a href="https://github.com/arjenvklaveren/IMTS_QuantumGaming">here</a> to
 </details>
 <br>
 
+<!-- Game Jams -->
 <div align="center">
-    <img alt="Gamejams" width="100%" src="/src/img/Banner/Branding_Banner_GameJams.png"/>
+    <img alt="Game Jams" width="80%" src="/src/img/Banner/Branding_Banner_GameJams.png"/>
 </div>
 
-I love participating in gamejams, the extreme time pressure forces you to focus on what matters and allows me to reconnect with why I love making games. 
+I love participating in game jams, the extreme time pressure forces you to focus on what matters and allows me to reconnect with why I love making games. 
 
-Here are some of my favorite gamejam projects:
+Here are some of my favorite game jam projects:
 
 ## Tower of Masks
 <a href="https://s4lt1.itch.io/tower-of-masks">
@@ -273,8 +276,9 @@ The game is available on [itch](https://sad-ai.itch.io/astral-herd) as a standal
 
 <br><br>
 
+<!-- Other Projects -->
 <div align="center">
-    <img alt="Other Projects" width="100%" src="/src/img/Banner/Branding_Banner_Other_Projects.png"/>
+    <img alt="Other Projects" width="80%" src="/src/img/Banner/Branding_Banner_Other_Projects.png"/>
 </div>
 
 These are some of the things I have worked on in my free time. 
@@ -312,8 +316,9 @@ The package features extensive documentation and a curated set of battle-tested 
 
 Click [here](https://github.com/Sad-AI-dev/SadUtils_Package) for more information.
 
+<!-- Contact -->
 <div align="center">
-    <img alt="Contact" width="100%" src="/src/img/Banner/Branding_Banner_Contact.png"/>
+    <img alt="Contact" width="80%" src="/src/img/Banner/Branding_Banner_Contact.png"/>
 </div>
 
 Interested in me and my work? Feel free to reach out!
