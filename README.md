@@ -15,9 +15,12 @@ Below you'll find a selection of my work and the tools I used.
 </div>
 
 <!-- Major proficiencies -->
+### Major Experience
+<div align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
 	<img align="left" alt="CSharp" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 </a>
+
 <a href="https://unity.com/">
 	<img align="left" alt="Unity" width="60px" src="/src/img/Unity_Logo.png"/>
 </a>
@@ -27,6 +30,7 @@ Below you'll find a selection of my work and the tools I used.
 <a href="https://www.jetbrains.com/rider/">
 	<img align="left" alt="Rider" width="60px" src="https://resources.jetbrains.com/storage/logos/web/rider/rider.svg"/>
 </a>
+
 <a href="https://visualstudio.microsoft.com/">
 	<img align="left" alt="Visual Studio" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
 </a>
@@ -36,11 +40,12 @@ Below you'll find a selection of my work and the tools I used.
 <a href="https://git-fork.com/">
 	<img align="left" alt="Fork" width="60px" src="https://git-fork.com/images/logo.png"/>
 </a>
+</div>
 
 <br><br><br>
 
 <!-- Minor proficiencies -->
-#### Minor experience
+### Minor experience
 
 <a href="https://cplusplus.com/">
 	<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
