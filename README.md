@@ -3,7 +3,7 @@
 </div>
 
 Welcome to my portfolio page!  
-I'm **Arvid** *(He/Him)* - a `Gameplay Programmer` and `Software Architect`.  
+I'm **Arvid** - a `Gameplay Programmer` and `Software Architect`.  
 My passions are solving complex technical problems, data structures and seeing players enjoy projects I have worked on.
 Also, I really enjoy participating in gamejams and have done so **10+** times.
 
