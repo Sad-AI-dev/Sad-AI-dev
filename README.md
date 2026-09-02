@@ -45,7 +45,7 @@ Below you'll find a selection of my work and the tools I used.
 <br><br><br>
 
 <!-- Minor proficiencies -->
-### Minor experience
+### Minor Experience
 
 <a href="https://cplusplus.com/">
 	<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
@@ -66,7 +66,7 @@ Below you'll find a selection of my work and the tools I used.
 	<img align="left" alt="CSS 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
 </a>
 
-<br><br>
+<br><br><br>
 
 <!-- Previous Work -->
 <div align="center">
@@ -320,6 +320,8 @@ The project was created using [Obsidian](https://obsidian.md/), click [here](htt
 The package features extensive documentation and a curated set of battle-tested scripts.  
 
 Click [here](https://github.com/Sad-AI-dev/SadUtils_Package) for more information.
+
+<br>
 
 <!-- Contact -->
 <div align="center">
